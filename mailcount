@@ -1,0 +1,4 @@
+/Mail/ {count=count+1}
+
+END {printf "Mail occurs %d times \n", count}
+

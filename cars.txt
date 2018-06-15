@@ -1,0 +1,4 @@
+chevy malibu 1999 60 3000
+chevy malibu 2000 60 3500
+honda accord 2001 30 6000
+chevy impala 1985 85 1550

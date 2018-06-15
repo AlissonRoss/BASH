@@ -1,0 +1,10 @@
+#!/bin/bash
+
+read -p '>>' input
+
+if test -z $input 
+then 
+	echo  "Where is your input?"
+else
+	echo "You entered:" $input
+fi
